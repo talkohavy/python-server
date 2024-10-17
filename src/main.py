@@ -1,5 +1,3 @@
-"""This is the entry file"""
-
 from typing import Union
 
 from fastapi import FastAPI
